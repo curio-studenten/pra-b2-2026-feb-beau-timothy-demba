@@ -158,6 +158,9 @@ button{
 }
 
 .sidy-by-side{
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .description{
@@ -186,6 +189,10 @@ footer{
     gap: 20px;
 }
 
+.row2 {
+    display: flex;
+    gap: 20px;
+}
 
 
   .emphasize {
@@ -199,6 +206,7 @@ footer{
     border-left: none;
     text-align: center;
 }
+
 
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
@@ -222,6 +230,9 @@ footer{
   }
 
   .row{
+    flex-direction: column;
+  }
+  .row2{
     flex-direction: column;
   }
   .sidy-by-side{
