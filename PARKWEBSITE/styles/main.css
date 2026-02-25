@@ -158,6 +158,9 @@ button{
 }
 
 .sidy-by-side{
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .description{
