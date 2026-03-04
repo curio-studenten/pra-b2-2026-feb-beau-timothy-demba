@@ -154,11 +154,12 @@ article h2.open-forever{
 }
 
 
-.kort {
+.kort p{
     background-color: #ffe6f2;
     padding: 10px;
     border-left: 4px solid #ff7ac4;
     border-radius: 4px;
+    justify-content: center;
 }
 
 button{
