@@ -127,8 +127,6 @@ article h2.open-forever{
 .product{
   margin-right: 1em;
   padding: 1em;
-  background: #CCCCCC;
-  text-align: center;
 }
 .product:last-of-type{
   margin-right: 0;
@@ -146,7 +144,7 @@ article h2.open-forever{
     margin-top: 0;
     font-size: 28px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: row;
 }
 
 
