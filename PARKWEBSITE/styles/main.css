@@ -139,18 +139,21 @@ article h2.open-forever{
 }
 .product img{
   width: 100%;
-  max-width: 250px;
+  max-width: 50px;
   margin: 0 auto;
 }
 
 .product-info h2 {
     margin-top: 0;
     font-size: 28px;
+    display: flex;
+    justify-content: flex-start;
 }
 
 
 .logo img {
     height: 60px;
+  
 }
 
 
