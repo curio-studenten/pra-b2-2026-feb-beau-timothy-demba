@@ -143,6 +143,24 @@ article h2.open-forever{
   margin: 0 auto;
 }
 
+.product-info h2 {
+    margin-top: 0;
+    font-size: 28px;
+}
+
+
+.logo img {
+    height: 60px;
+}
+
+
+.kort {
+    background-color: #ffe6f2;
+    padding: 10px;
+    border-left: 4px solid #ff7ac4;
+    border-radius: 4px;
+}
+
 button{
   width: 100%;
   margin-top: 1em;
